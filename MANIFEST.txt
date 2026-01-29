@@ -1,0 +1,7 @@
+AESALNET Indie Systems Toolkit (Pro)
+Version: 2026-01-23_142646Z
+Built: Fri Jan 23 14:26:46 UTC 2026
+
+Contents:
+MANIFEST.txt
+README.md
