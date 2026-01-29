@@ -1,0 +1,28 @@
+# OS junk
+.DS_Store
+THumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node / JS 
+node_modules/
+
+# Docker
+.env
+
+#Editors
+.vscode/
+.idea/
+
+# Logs & caches
+*.log
+.cache/
+
+# Archives
+*.zip
+*.tar.gz
+
+
